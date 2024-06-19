@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.neelareddy.store
+login_password: ExpenseApp1
+DB_HOST: db-prod.neelareddy.store
+BACKEND_API_URL: backend.app-prod.neelareddy.store
